@@ -10,16 +10,7 @@ app.get('/config', (req: Request, res: Response) => {
   res.status(501).json({ message: "Not Implemented" });
 });
 
-app.post('/config', (req: Request, res: Response) => {
-
-  /**
-   * Sample code for sending a request:
-   * 
-   * const responseStatus = await sendRequest("<some url>");
-   * console.log(new Date().toLocaleString(), "Received response with status code", responseStatus);
-   */
-
-  
+app.post('/config', (req: Request, res: Response) => {  
   res.status(501).json({ message: "Not Implemented" });
 });
 

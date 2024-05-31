@@ -1,4 +1,4 @@
-# Extension 1
+# Task 3 - Logging intelligently
 
 You now should have a server which sends traffic to a URL at a specific rate. This server logs a single line every time it sends a request, to provide observability into what it is doing and what response it got back from calling the URL.
 
